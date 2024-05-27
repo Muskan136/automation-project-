@@ -20,4 +20,4 @@ driver.find_element(By.XPATH,"//span[text()='Admin']").click()
 time.sleep(1)
 #automation
 #qe and qa
-#connecting to the github
+
